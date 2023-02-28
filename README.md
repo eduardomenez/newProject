@@ -3,4 +3,4 @@
 
 Repository created during live class
 
-This row, I added directly from the site, amazing!
+This row, **I added directly from the site**, amazing!
